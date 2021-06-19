@@ -5,3 +5,26 @@ Detailed analyses of following factors:
   -People aboard per year during crashes.
   -People dead per year during crashes.
   -People survived per year during crashes.
+  
+  STEPS INVOLVED
+-------------------------------
+  
+  1. Importing the Libraries
+  2. Importing the Dataset
+  3. Feature engineering
+  4. EDA (Count of accidents by month, weekday, hour)
+  5. EDA (Total Fatalities)
+  6. Importing the second Dataset
+  7. EDA (Fatalitites vs Year)
+  8. EDA (Operators)
+ 
+
+Libraries used
+------------------------------
+    Pandas
+    Matplotlib
+    Numpy
+    Seaborn
+    Datetime
+
+
