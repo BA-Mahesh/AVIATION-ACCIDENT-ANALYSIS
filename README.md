@@ -28,3 +28,9 @@ Libraries used
     Datetime
 
 
+##  Summary :
+Detailed analyses of following factors done successfully:
+-The planes crashed per year.
+-People aboard per year during crashes.
+-People dead per year during crashes.
+-People survived per year during crashes.
